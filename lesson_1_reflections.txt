@@ -1,0 +1,5 @@
+How might using version control make you more confident to make changes that could break something?
+A: When I know that I can revert the changes I've made I fell more confident to do changes because I know that I can revert them. This make me less afraid of brake all the system.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+A: There are two things that I can't wait for to do using Git. The first is my Masters thesis. The second is doing something unis git with a partner, using branches and this tools. I think I should wait for the end of the course to try it.
